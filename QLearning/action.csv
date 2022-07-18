@@ -1,0 +1,8 @@
+action,a0,a1,a2,a3,a4,a5,a6,a7,a8
+microwave food,reach | microwave door,open | microwave door,place | food,close | microwave door,press1 | button,spin | timer,press2 | button,wait | null
+cut vegetable,reach | carrot,cut | carrot,place | knife
+make cereal,reach | milkbottle,open | milkbottle,pour | milkbottle,close | milkbottle
+make salad,reach | spoon,stir | salad,place | spoon
+use oven,reach1 | ovendoor,open | ovendoor,reach | cookietray,pull | cookietray,place | cookietray,release | oventray,shake | hand,reach2 | ovendoor,close | ovendoor
+cook soup,reach | lid,open | lid,reach | ladle,pick | ladle,stir | soup,drink | soup,stir | soup,release | ladle,close | lid
+peel,reach | potato,reach | knife,peel1 | potato,flip1 | potato,peel2 | potato,flip2 | potato,peel3 | potato,flip3 | potato,peel4 | potato
