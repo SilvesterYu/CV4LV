@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T17:59:57.079Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SPWqOdXBMGUzifFo_etY" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T18:00:47.682Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6dgtoZw6eJYwLRXwfWHW" version="20.0.4" type="github">
   <diagram id="g3UVA5wj0Q-mNNPJUauZ" name="Page-1">
     <mxGraphModel dx="1837" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,11 +68,13 @@
         <mxCell id="UNTgzPbqQB7dRuP13cHt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="UNTgzPbqQB7dRuP13cHt-11" target="UNTgzPbqQB7dRuP13cHt-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UNTgzPbqQB7dRuP13cHt-45" value="basic component &lt;br&gt;for prediction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" connectable="0" parent="UNTgzPbqQB7dRuP13cHt-32">
+          <mxGeometry x="-0.1447" relative="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UNTgzPbqQB7dRuP13cHt-11" value="&lt;b&gt;(2) Sub-actions for&lt;br&gt;Daily Activities&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="400" y="248" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UNTgzPbqQB7dRuP13cHt-28" value="correspond to section (2) Daily &lt;br&gt;Activities and Constructing &lt;br&gt;Corresponding Sub-action Sequences" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontFamily=Times New Roman;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="607" y="236" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UNTgzPbqQB7dRuP13cHt-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;wear,&lt;br&gt;perform activities&lt;br&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
